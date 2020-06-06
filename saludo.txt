@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hola papa
+=======
+Hola mama
+te amo 
+mis papas se aman 
+>>>>>>> mama
